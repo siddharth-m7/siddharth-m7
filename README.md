@@ -1,8 +1,5 @@
 # Hi there, I'm Siddharth Mishra 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Competitive Programmer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</div>
 
 <div align="center">
   
