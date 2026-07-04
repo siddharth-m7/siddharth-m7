@@ -4,7 +4,7 @@ Full Stack Developer (MERN) | Building scalable systems | Competitive Programmer
 
 ECE student at IIIT Ranchi. I build production-grade web applications and solve algorithmic problems.
 
----
+
 
 ## What I Work With
 
@@ -14,7 +14,7 @@ ECE student at IIIT Ranchi. I build production-grade web applications and solve 
 **DevOps:** Docker, AWS (EC2, ECS, S3), GitHub Actions, CI/CD  
 **Other:** C++, DSA, BullMQ, API Design, Database Optimization
 
----
+
 
 ## Projects
 
@@ -57,12 +57,8 @@ Deployed using Docker and AWS.
 
 🏆 **State-Level Winner** – Design for Bharat Youth Innovation Challenge 2026 (IoT smart electrical switch)
 
----
 
 ## Let's Talk
 
 [LinkedIn](https://www.linkedin.com/in/siddharthm7/) • [Email](mailto:siddharth4386@gmail.com) • [Portfolio](https://siddharth-mishra.vercel.app/)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth-m7&show_icons=true&theme=github_light&hide=contribs)
