@@ -51,7 +51,7 @@ Deployed using Docker and AWS.
 ## Academic Background
 - **Indian Institute of Information Technology [IIIT] RANCHI**
 - **Bachelor of Technology** (ECE)
-- **CGPA : 9.03**
+- **CGPA : 9.09**
 
 ## Awards
 
